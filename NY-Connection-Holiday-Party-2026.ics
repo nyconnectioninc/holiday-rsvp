@@ -22,9 +22,9 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:nyconnection-holiday-party-2026@nyconnectionli.com
-DTSTAMP:20261109T201500Z
+DTSTAMP:20261109T203800Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261213T190000
-DTEND;TZID=America/New_York:20261213T230000
 SUMMARY:NY Connection Holiday Party
 LOCATION:Soundview Caterers\, 45 Bayville Ave\, Bayville\, NY 11709
 DESCRIPTION:Hosted by Iesh & Isha. Venue phone: (516) 864-0600. Need to cha
